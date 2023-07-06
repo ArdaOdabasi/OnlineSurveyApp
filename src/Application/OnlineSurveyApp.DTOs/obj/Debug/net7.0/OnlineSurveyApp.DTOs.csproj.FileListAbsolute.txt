@@ -1,0 +1,24 @@
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.deps.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.AssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\refint\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\ref\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.deps.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.AssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\refint\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.DTOs\obj\Debug\net7.0\ref\OnlineSurveyApp.DTOs.dll

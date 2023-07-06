@@ -1,0 +1,71 @@
+﻿@model SurveysAndConstituentsViewModel
+
+@{
+    var users = Model.users;
+}
+
+
+<h5 class="text-center">Tüm Anketler</h5>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Anket Başlığı
+            </th>
+            <th>
+                Anket Açıklaması
+            </th>
+            <th>
+                Oluşturulma Tarihi
+            </th>
+            <th>
+                Aktiflik
+            </th>           
+            <th>
+                Oluşturan Kullanıcı
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.surveys)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Explanation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>              
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.ConstituentId)*@
+                    @foreach (var user in users)
+                    {
+                        if (item.ConstituentId == user.Id)
+                        {
+                            @user.FirstName @: @user.LastName
+                            break;
+                        }
+                    }
+                </td>
+                <td>
+                    <a style="text-decoration:none" href="@Url.Action("Detail", "Analysis", new { surveyId = item.Id })"><i style="color:blue;" class="bi bi-bar-chart-fill"></i> Anket Detay </a>
+                    @*@html.actionlink("edit", "edit", new { /* id=item.primarykey */ }) |
+                    @html.actionlink("details", "details", new { /* id=item.primarykey */ }) |
+                    @html.actionlink("delete", "delete", new { /* id=item.primarykey */ })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

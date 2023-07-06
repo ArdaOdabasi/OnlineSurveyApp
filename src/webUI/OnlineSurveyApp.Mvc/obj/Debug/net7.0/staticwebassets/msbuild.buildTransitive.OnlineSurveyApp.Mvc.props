@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OnlineSurveyApp.Mvc.props" />
+</Project>

@@ -1,0 +1,34 @@
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.deps.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.CopyComplete
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\refint\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\ref\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.runtimeconfig.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.genruntimeconfig.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.deps.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.runtimeconfig.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.csproj.CopyComplete
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\refint\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\OnlineSurveyApp.Infrastructure.genruntimeconfig.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Infrastructure\OnlineSurveyApp.Infrastructure\obj\Debug\net7.0\ref\OnlineSurveyApp.Infrastructure.dll

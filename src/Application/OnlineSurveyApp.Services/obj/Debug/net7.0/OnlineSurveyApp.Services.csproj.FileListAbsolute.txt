@@ -1,0 +1,38 @@
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.deps.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.AssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.CopyComplete
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\refint\OnlineSurveyApp.Services.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\ref\OnlineSurveyApp.Services.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.deps.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.AssemblyReference.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.AssemblyInfoInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.AssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.csproj.CopyComplete
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\refint\OnlineSurveyApp.Services.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Application\OnlineSurveyApp.Services\obj\Debug\net7.0\ref\OnlineSurveyApp.Services.dll

@@ -1,0 +1,103 @@
+﻿@model SurveyAnalysisItemsViewModel
+
+@{
+    var questions = Model.questions;
+    var options = Model.options;
+    var answers = Model.answers;
+
+    var questionCount = Model.questions.Count();
+    var answerColumnCount = Model.answers.Count();
+    var answerCount = (questionCount != null && questionCount != 0) ? answerColumnCount / questionCount : 0;
+
+    var sequence = 1;
+    var counter = 0;
+    Dictionary<int, int> optionSelectionCounts = new Dictionary<int, int>();
+    Dictionary<int, List<int>> questionEvaluationCounts = new Dictionary<int, List<int>>();
+}
+
+<h5 class="text-center">Anket Detay Sayfası</h5>
+<br />
+<h6 class="text-center">Anketin Başlığı: @Model.survey.Title</h6>
+<h6 class="text-center">Anketin Açıklaması: @Model.survey.Explanation</h6>
+<h6 class="text-center">Anketin Yanıtlanma Sayısı: @answerCount</h6>
+
+@foreach (var answer in answers)
+{
+    int questionId = answer.QuestionId.HasValue ? answer.QuestionId.Value : 0;
+    int optionId = answer.OptionId.HasValue ? answer.OptionId.Value : 0;
+
+    if (optionId != 0)
+    {
+        if (optionSelectionCounts.ContainsKey(optionId))
+        {
+            optionSelectionCounts[optionId]++;
+        }
+        else
+        {
+            optionSelectionCounts.Add(optionId, 1);
+        }
+    }
+    else if (questionId != 0)
+    {
+        int evaluation = answer.Evaluation.HasValue ? answer.Evaluation.Value : 0;
+
+        if (questionEvaluationCounts.ContainsKey(questionId))
+        {
+            questionEvaluationCounts[questionId].Add(evaluation);
+        }
+        else
+        {
+            questionEvaluationCounts.Add(questionId, new List<int> { evaluation });
+        }
+    }
+}
+
+@foreach (var question in questions)
+{
+    <b><p class="text-center">Soru @sequence : @question.Text</p></b>
+
+    var totalSelectionCount = 0;
+    foreach (var option in options)
+    {
+        if (question.Id == option.QuestionId)
+        {
+            var selectionCount = optionSelectionCounts.ContainsKey(option.Id) ? optionSelectionCounts[option.Id] : 0;
+            totalSelectionCount += selectionCount;
+        }
+    }
+
+    foreach (var option in options)
+    {
+        if (question.Id == option.QuestionId)
+        {
+            var selectionCount = optionSelectionCounts.ContainsKey(option.Id) ? optionSelectionCounts[option.Id] : 0;
+            var progressWidth = totalSelectionCount > 0 ? (selectionCount * 100) / totalSelectionCount : 0;
+
+            <p> @option.Text </p>
+            <div class="progress">
+                <div class="progress-bar bg-success" role="progressbar" style="width: @progressWidth%" aria-valuenow="@progressWidth" aria-valuemin="0" aria-valuemax="100"> @selectionCount </div>
+            </div>
+            <br />
+        }
+    }
+
+    if (questionEvaluationCounts.ContainsKey(question.Id))
+    {
+        var evaluations = questionEvaluationCounts[question.Id];
+        var evaluationCounts = evaluations.GroupBy(e => e).ToDictionary(g => g.Key, g => g.Count());
+
+        foreach (var evaluationCount in evaluationCounts)
+        {
+            var evaluation = evaluationCount.Key;
+            var count = evaluationCount.Value;
+
+            <p>Puan: @evaluation</p>
+            <div class="progress">
+                <div class="progress-bar bg-success" role="progressbar" style="width: @(count * 100 / answerCount)%" aria-valuenow="@(count * 100 / answerCount)" aria-valuemin="0" aria-valuemax="100"> @count </div>
+            </div>
+            <br />
+        }
+    }
+
+    sequence++;
+}

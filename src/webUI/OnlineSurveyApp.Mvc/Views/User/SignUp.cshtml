@@ -1,0 +1,63 @@
+﻿@model OnlineSurveyApp.Mvc.Models.UserSignUpViewModel
+
+<div class="text-center">
+    <h3>Kayıt Ol</h3>
+    <hr style="width: 200px; margin: 0 auto;">
+    <div class="row">
+        <div class="col-md-4 offset-md-4">
+            <form asp-action="SignUp" asp-action-ReturnUrlParameter="@ViewBag.ReturnUrl">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <br />
+                    <label for="UserName">Kullanıcı Adı</label>
+                    <input asp-for="UserName" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <br />
+                    <label for="FirstName">Ad</label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <br />
+                    <label for="LastName">Soyad</label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <br />
+                    <label for="Password">Şifre</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <br />
+                    <label for="Role">Rol</label>
+                    <select asp-for="Role" class="form-control">
+                        <option value="">Rol Seçiniz</option>
+                        <option value="Admin">Admin</option>
+                        <option value="NormalKullanıcı">Anketör</option>
+                        <option value="NormalKullanıcı">Ziyaretçi</option>
+                    </select>
+                    <span asp-validation-for="Role" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <br />
+                    <input type="submit" value="Kayıt Ol" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <br />
+        <a style="text-decoration: none;" asp-controller="User" asp-action="Login">Geri Dön</a>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

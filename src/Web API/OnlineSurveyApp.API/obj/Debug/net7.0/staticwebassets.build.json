@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t3AG6lMQ1M6501WKr2+rQkZP3sFw9hhyXikW7cMIy68=",
+  "Source": "OnlineSurveyApp.API",
+  "BasePath": "_content/OnlineSurveyApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

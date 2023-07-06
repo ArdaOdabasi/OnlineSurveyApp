@@ -1,0 +1,162 @@
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\appsettings.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.exe
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.deps.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.runtimeconfig.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.AssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.OnlineSurveyApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.build.OnlineSurveyApp.API.props
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnlineSurveyApp.API.props
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnlineSurveyApp.API.props
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\scopedcss\bundle\OnlineSurveyApp.API.styles.css
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.CopyComplete
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\refint\OnlineSurveyApp.API.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.genruntimeconfig.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\ref\OnlineSurveyApp.API.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\appsettings.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.exe
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.deps.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.runtimeconfig.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.API.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.DTOs.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Services.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Services.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.DTOs.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\bin\Debug\net7.0\OnlineSurveyApp.Infrastructure.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.AssemblyReference.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.AssemblyInfoInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.AssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.CoreCompileInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.OnlineSurveyApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.build.OnlineSurveyApp.API.props
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnlineSurveyApp.API.props
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnlineSurveyApp.API.props
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\scopedcss\bundle\OnlineSurveyApp.API.styles.css
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.csproj.CopyComplete
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\refint\OnlineSurveyApp.API.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\OnlineSurveyApp.API.genruntimeconfig.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Web API\OnlineSurveyApp.API\obj\Debug\net7.0\ref\OnlineSurveyApp.API.dll

@@ -1,0 +1,24 @@
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.deps.json
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.AssemblyInfo.cs
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\refint\OnlineSurveyApp.Entities.dll
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\source\repos\Turkcell Geleceği Yazanlar\Assignments\Turkcell_GYGY2023_Homeworks\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\ref\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.deps.json
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\bin\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.AssemblyInfo.cs
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\refint\OnlineSurveyApp.Entities.dll
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\OnlineSurveyApp.Entities.pdb
+C:\Users\pi\Desktop\Yedek\OnlineSurveyApp\src\Domains\OnlineSurveyApp.Entities\obj\Debug\net7.0\ref\OnlineSurveyApp.Entities.dll
