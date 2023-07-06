@@ -65,11 +65,6 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.AnswerRepository
             return await onlineSurveyDbContext.Answers.ToListAsync();
         }
 
-        public IList<Answer> GetAllWithPredicate(Expression<Func<Answer, bool>> predicate)
-        {
-            return onlineSurveyDbContext.Answers.Where(predicate).ToList();
-        }
-
         public void Update(Answer entity)
         {
             onlineSurveyDbContext.Answers.Update(entity);

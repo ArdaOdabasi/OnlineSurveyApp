@@ -9,47 +9,77 @@
     Dictionary<int, int> selectedOptionIds = new Dictionary<int, int>();
 }
 
-<div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
-        <h5 class="text-center">Anketin Başlığı: @survey.Title</h5>
-        <br />
-        <h6 class="text-center">Anketin Açıklaması: @survey.Explanation</h6>
-        <br />
-        <form method="post" action="@Url.Action("JoinSurvey", "Survey")">
-            <input type="hidden" name="surveyId" value="@survey.Id" />
-
-            @foreach (var question in questions)
-            {
-                <p class="text-center">Soru @sequence : @question.Text</p>
-
-                @if (question.ScoringRequirement == true)
-                {
-                    <input type="number" name="scores[@question.Id]" class="form-control" placeholder="1 İle 10 Arası Değer Giriniz" min="1" max="10" required>
-                    <br />
-                }
-
-                foreach (var option in options)
-                {
-                    if (option.QuestionId == question.Id)
-                    {
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="selectedOptionIds[@question.Id]" id="option_@option.Id" value="@option.Id" required>
-                            <label class="form-check-label" for="option_@option.Id">
-                                @option.Text
-                            </label>
-                        </div>
-                    }
-                }
-
-                sequence++;
-            }
-
+@if (survey.Active == true)
+{
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <h5 class="text-center">Anketin Başlığı: @survey.Title</h5>
             <br />
-            <div class="text-center">
-                <button type="submit" class="btn btn-primary">Anketi Tamamla</button>
-            </div>
-        </form>
+            <h6 class="text-center">
+                <span style="font-weight: 500;">Anketin Açıklaması:</span> <span style="font-weight: normal;">@Model.survey.Explanation</span>
+            </h6>
+            <br />
+            <br />
+            <form method="post" action="@Url.Action("JoinSurvey", "Survey")">
+                <input type="hidden" name="surveyId" value="@survey.Id" />
+
+                @foreach (var question in questions)
+                {
+                    <br />
+                    <br />
+                    <p class="text-center" style="font-weight: 500; display: inline;">Soru @sequence:</p><p style="display: inline;"> @question.Text</p>
+                    <br />
+                    <br />
+
+                    @if (question.ScoringRequirement == true)
+                    {
+                        <input type="number" name="scores[@question.Id]" class="form-control" placeholder="1 İle 10 Arası Değer Giriniz" min="1" max="10" required>
+                        <br />
+                    }
+
+                    foreach (var option in options)
+                    {
+                        if (option.QuestionId == question.Id)
+                        {
+                            <div class="form-check">
+                                <input style="border: 1px solid black;" class="form-check-input" type="radio" name="selectedOptionIds[@question.Id]" id="option_@option.Id" value="@option.Id" required>
+                                <label class="form-check-label" for="option_@option.Id">
+                                    @option.Text
+                                </label>
+                            </div>
+                        }
+                    }
+
+                    sequence++;
+                }
+
+                <br />
+                <div class="text-center">
+                    <button type="submit" class="btn btn-dark">Anketi Tamamla</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-2"></div>
     </div>
-    <div class="col-md-2"></div>
-</div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <h5 class="text-center">Anketin Başlığı: @survey.Title</h5>
+            <br />
+            <h6 class="text-center">Anketin Açıklaması: @survey.Explanation</h6>
+            <br />
+            <br>
+            <div class="text-center" style="position: fixed; left: 50%; transform: translate(-50%, -50%); background-color: black; color: white; padding: 10px; border-radius: 10px;">
+                <h6 style="margin: 0;">Anket Aktif Durumda Olmadığı İçin Katılım Sağlamanız Mümkün Değildir!</h6>
+            </div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+}
+
+

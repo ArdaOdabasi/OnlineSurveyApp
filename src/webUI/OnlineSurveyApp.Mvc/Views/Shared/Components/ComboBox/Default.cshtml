@@ -1,0 +1,11 @@
+﻿@model IEnumerable<SurveyDisplayResponse>
+<div class="dropdown">
+    <button class="btn btn-dark dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Anket Aktifliği
+    </button>
+    <ul class="dropdown-menu">
+        <li><a asp-action="Index" asp-controller="Analysis" asp-route-activeness="" class="dropdown-item">Tüm Anketler</a></li>
+        <li><a asp-action="Index" asp-controller="Analysis" asp-route-activeness="Active" class="dropdown-item">Aktif Anketler</a></li>
+        <li><a asp-action="Index" asp-controller="Analysis" asp-route-activeness="Passive" class="dropdown-item">Pasif Anketler</a></li>
+    </ul>
+</div>

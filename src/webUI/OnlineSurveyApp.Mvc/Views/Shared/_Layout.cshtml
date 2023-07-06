@@ -13,9 +13,9 @@
 </head>
 <body style="padding-bottom: 50px;">
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-black bg-black border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><i style="margin-top: 100px;" class="bi bi-bar-chart-fill"></i> Online Anket Uygulaması</a>
+                <a style="color:white;" class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><i style="margin-top: 100px; color:white;" class="bi bi-bar-chart-fill"></i> Online Anket Uygulaması</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,26 +23,26 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
                         </li>
                         @if (User.IsInRole("Admin") || User.IsInRole("Anketör"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Analysis" asp-action="Index">Anket Analiz</a>
+                                <a class="nav-link text-white" asp-area="" asp-controller="Analysis" asp-action="Index">Anket Analiz</a>
                             </li>
                         }
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="User" asp-action="Logout"> Çıkış Yap (@User.Identity.Name) @Html.Raw(ViewBag.LastName) </a>
+                                <a class="nav-link text-white" asp-controller="User" asp-action="Logout"> Çıkış Yap (@User.Identity.Name) @Html.Raw(ViewBag.LastName) </a>
                             </li>
                         }
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="User" asp-action="Login"> Giriş Yap</a>
+                                <a class="nav-link text-white" asp-controller="User" asp-action="Login"> Giriş Yap</a>
                             </li>
-                        }                     
+                        }
                     </ul>
                 </div>
             </div>
@@ -54,18 +54,18 @@
         </main>
     </div>
 
-    <footer style="bottom: 0; width: 100%" class="border-top footer text-muted">
+    <footer style="bottom: 0; width: 100%; background-color: black;" class="border-top footer text-white">
         <div class="container">
-            <div style="display: flex; align-items: center;">
-                <i style="margin-right: 5px;" class="bi bi-bar-chart-fill"></i>  Online Anket Uygulaması - Arda Odabaşı -
-                <a style="text-decoration: none; margin-left: 10px;" asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
+            <div style="display: flex; align-items: center; justify-content: center;">
+                <i style="margin-right: 5px;" class="bi bi-bar-chart-fill text-white"></i>  Online Anket Uygulaması - Arda Odabaşı -
+                <a style="text-decoration: none; margin-left: 10px; color: white;" asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
                 <span style="margin-left: 10px;">|</span>
                 @if (User.IsInRole("Admin") || User.IsInRole("Anketör"))
                 {
-                    <a style="text-decoration: none; margin-left: 10px;" asp-area="" asp-controller="Analysis" asp-action="Index">Anket Analiz</a>
+                    <a style="text-decoration: none; margin-left: 10px; color: white;" asp-area="" asp-controller="Analysis" asp-action="Index">Anket Analiz</a>
                     <span style="margin-left: 10px;">|</span>
                 }
-                <a style="text-decoration: none; margin-left: 10px;" asp-controller="User" asp-action="@((User.Identity.IsAuthenticated) ? "Logout" : "Login")">
+                <a style="text-decoration: none; margin-left: 10px; color: white;" asp-controller="User" asp-action="@((User.Identity.IsAuthenticated) ? "Logout" : "Login")">
                     @((User.Identity.IsAuthenticated) ? "Çıkış Yap (" + User.Identity.Name + ")" : "Giriş Yap")
                 </a>
             </div>

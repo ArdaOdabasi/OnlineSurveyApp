@@ -4,12 +4,14 @@
     var users = Model.users;
 }
 
-
 <h5 class="text-center">Tüm Anketler</h5>
 
-@*<p>
-    <a asp-action="Create">Create New</a>
-</p>*@
+<div class="row">
+    <div class="col-md-10"></div>
+    <div class="col-md-2">
+        @await Component.InvokeAsync("ComboBox")
+    </div>
+</div>
 
 <table class="table">
     <thead>
@@ -49,7 +51,6 @@
                     @Html.DisplayFor(modelItem => item.Active)
                 </td>              
                 <td>
-                    @*@Html.DisplayFor(modelItem => item.ConstituentId)*@
                     @foreach (var user in users)
                     {
                         if (item.ConstituentId == user.Id)
@@ -60,10 +61,7 @@
                     }
                 </td>
                 <td>
-                    <a style="text-decoration:none" href="@Url.Action("Detail", "Analysis", new { surveyId = item.Id })"><i style="color:blue;" class="bi bi-bar-chart-fill"></i> Anket Detay </a>
-                    @*@html.actionlink("edit", "edit", new { /* id=item.primarykey */ }) |
-                    @html.actionlink("details", "details", new { /* id=item.primarykey */ }) |
-                    @html.actionlink("delete", "delete", new { /* id=item.primarykey */ })*@
+                    <a style="text-decoration:none; color:darkgoldenrod" href="@Url.Action("Detail", "Analysis", new { surveyId = item.Id })"><i style="color:darkgoldenrod" class="bi bi-bar-chart-fill"></i> Anket Detay </a>
                 </td>
             </tr>
         }

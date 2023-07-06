@@ -18,6 +18,10 @@ namespace OnlineSurveyApp.Services.SurveyService
         Task UpdateSurveyAsync(UpdateSurveyRequest updateSurveyRequest);
         Task DeleteAsync(int surveyId);
         Task<bool> SurveyIsExistsAsync(int surveyId);
+        Task<IEnumerable<SurveyDisplayResponse>> GetActiveSurveysAsync();
+        Task<IEnumerable<SurveyDisplayResponse>> GetPassiveSurveysAsync();
         Task<IEnumerable<SurveyDisplayResponse>> GetSurveysByConstituentAsync(int constituentId);
+        Task<IEnumerable<SurveyDisplayResponse>> GetActiveSurveysByConstituentAsync(int constituentId);
+        Task<IEnumerable<SurveyDisplayResponse>> GetPassiveSurveysByConstituentAsync(int constituentId);
     }
 }

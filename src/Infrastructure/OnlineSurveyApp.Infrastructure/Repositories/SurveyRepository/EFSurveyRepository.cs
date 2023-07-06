@@ -65,11 +65,6 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.SurveyRepository
             return await onlineSurveyDbContext.Surveys.ToListAsync();
         }
 
-        public IList<Survey> GetAllWithPredicate(Expression<Func<Survey, bool>> predicate)
-        {
-            return onlineSurveyDbContext.Surveys.Where(predicate).ToList();
-        }
-
         public void Update(Survey entity)
         {
             onlineSurveyDbContext.Surveys.Update(entity);
@@ -87,9 +82,41 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.SurveyRepository
             return await onlineSurveyDbContext.Surveys.AnyAsync(s => s.Id == id);
         }
 
+        public async Task<IEnumerable<Survey>> GetActiveSurveysAsync()
+        {
+            return await onlineSurveyDbContext.Surveys.AsNoTracking()
+                                                      .Where(s => s.Active == true)
+                                                      .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Survey>> GetPassiveSurveysAsync()
+        {
+            return await onlineSurveyDbContext.Surveys.AsNoTracking()
+                                                      .Where(s => s.Active == false)
+                                                      .ToListAsync();
+        }
+
         public async Task<IEnumerable<Survey>> GetSurveysByConstituentAsync(int constituentId)
         {
-            return await onlineSurveyDbContext.Surveys.AsNoTracking().Where(s => s.ConstituentId == constituentId).ToListAsync();
+            return await onlineSurveyDbContext.Surveys.AsNoTracking()
+                                                      .Where(s => s.ConstituentId == constituentId)
+                                                      .ToListAsync();
+        }
+
+
+        public async Task<IEnumerable<Survey>> GetActiveSurveysByConstituentAsync(int constituentId)
+        {
+            return await onlineSurveyDbContext.Surveys.AsNoTracking()
+                                                      .Where(s => s.ConstituentId == constituentId && s.Active == true)
+                                                      .ToListAsync();
+        }
+
+
+        public async Task<IEnumerable<Survey>> GetPassiveSurveysByConstituentAsync(int constituentId)
+        {
+            return await onlineSurveyDbContext.Surveys.AsNoTracking()
+                                                      .Where(s => s.ConstituentId == constituentId && s.Active == false)
+                                                      .ToListAsync();
         }
     }
 }

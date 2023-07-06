@@ -26,7 +26,5 @@ namespace OnlineSurveyApp.Infrastructure.Repositories
         Task DeleteAsync(int id);
 
         Task<bool> IsExistsAsync(int id);
-
-        IList<T> GetAllWithPredicate(Expression<Func<T, bool>> predicate);
     }
 }

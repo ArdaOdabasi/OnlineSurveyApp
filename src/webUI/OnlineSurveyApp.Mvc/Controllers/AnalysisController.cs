@@ -33,22 +33,47 @@ namespace OnlineSurveyApp.Mvc.Controllers
             _userService = userService;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string activeness)
         {
             IEnumerable<SurveyDisplayResponse> surveys = new List<SurveyDisplayResponse>();
             IList<UserDisplayResponse> users = new List<UserDisplayResponse>();
 
             if (User.IsInRole("Admin"))
             {
-                surveys = await _surveyService.GetAllSurveysAsync();
+                if (activeness == "Active")
+                {
+                    surveys = await _surveyService.GetActiveSurveysAsync();
+                }
+
+                else if (activeness == "Passive")
+                {
+                    surveys = await _surveyService.GetPassiveSurveysAsync();
+                }
+
+                else
+                {
+                    surveys = await _surveyService.GetAllSurveysAsync();
+                }
             }
 
             else if (User.IsInRole("Anketör"))
             {
                 string userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-                surveys = await _surveyService.GetSurveysByConstituentAsync(Convert.ToInt32(userId));
+
+                if (activeness == "Active")
+                {
+                    surveys = await _surveyService.GetActiveSurveysByConstituentAsync(Convert.ToInt32(userId));
+                }
+                else if (activeness == "Passive")
+                {
+                    surveys = await _surveyService.GetPassiveSurveysByConstituentAsync(Convert.ToInt32(userId));
+                }
+                else
+                {
+                    surveys = await _surveyService.GetSurveysByConstituentAsync(Convert.ToInt32(userId));
+                }
             }
-                                   
+
             foreach (var survey in surveys)
             {
                 var user = await _userService.GetUserByIdAsync(Convert.ToInt32(survey.ConstituentId));

@@ -65,11 +65,6 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.OptionRepository
             return await onlineSurveyDbContext.Options.ToListAsync();
         }
 
-        public IList<Option> GetAllWithPredicate(Expression<Func<Option, bool>> predicate)
-        {
-            return onlineSurveyDbContext.Options.Where(predicate).ToList();
-        }
-
         public void Update(Option entity)
         {
             onlineSurveyDbContext.Options.Update(entity);

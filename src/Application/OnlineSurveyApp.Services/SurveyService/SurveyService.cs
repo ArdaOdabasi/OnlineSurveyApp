@@ -24,7 +24,7 @@ namespace OnlineSurveyApp.Services.SurveyService
             _repository = repository;
             _mapper = mapper;
         }
-   
+
         public async Task CreateSurveyAsync(CreateNewSurveyRequest createNewSurveyRequest)
         {
             var survey = _mapper.ConvertCreateRequestToSurvey(createNewSurveyRequest);
@@ -68,9 +68,37 @@ namespace OnlineSurveyApp.Services.SurveyService
             await _repository.UpdateAsync(survey);
         }
 
+        public async Task<IEnumerable<SurveyDisplayResponse>> GetActiveSurveysAsync()
+        {
+            var surveys = await _repository.GetActiveSurveysAsync();
+            var responses = surveys.ConvertSurveysToDisplayResponses(_mapper);
+            return responses;
+        }
+
+        public async Task<IEnumerable<SurveyDisplayResponse>> GetPassiveSurveysAsync()
+        {
+            var surveys = await _repository.GetPassiveSurveysAsync();
+            var responses = surveys.ConvertSurveysToDisplayResponses(_mapper);
+            return responses;
+        }
+
         public async Task<IEnumerable<SurveyDisplayResponse>> GetSurveysByConstituentAsync(int constituentId)
         {
             var surveys = await _repository.GetSurveysByConstituentAsync(constituentId);
+            var responses = surveys.ConvertSurveysToDisplayResponses(_mapper);
+            return responses;
+        }
+
+        public async Task<IEnumerable<SurveyDisplayResponse>> GetActiveSurveysByConstituentAsync(int constituentId)
+        {
+            var surveys = await _repository.GetActiveSurveysByConstituentAsync(constituentId);
+            var responses = surveys.ConvertSurveysToDisplayResponses(_mapper);
+            return responses;
+        }
+
+        public async Task<IEnumerable<SurveyDisplayResponse>> GetPassiveSurveysByConstituentAsync(int constituentId)
+        {
+            var surveys = await _repository.GetPassiveSurveysByConstituentAsync(constituentId);
             var responses = surveys.ConvertSurveysToDisplayResponses(_mapper);
             return responses;
         }
