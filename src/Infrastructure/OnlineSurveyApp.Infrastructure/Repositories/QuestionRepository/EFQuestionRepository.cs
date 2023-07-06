@@ -84,7 +84,9 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.QuestionRepository
 
         public async Task<IEnumerable<Question>> GetQuestionsBySurveyAsync(int surveyId)
         {
-            return await onlineSurveyDbContext.Questions.AsNoTracking().Where(c => c.SurveyId == surveyId).ToListAsync();
+            return await onlineSurveyDbContext.Questions.AsNoTracking()
+                                                        .Where(c => c.SurveyId == surveyId)
+                                                        .ToListAsync();
         }
     }
 }

@@ -10,13 +10,13 @@ namespace OnlineSurveyApp.DTOs.Requests.SurveyRequests
     public class UpdateSurveyRequest
     {
         public int Id { get; set; }
-        [Required(ErrorMessage = "Anket Başlığı Boş Bırakılmamalıdır!")]
-        [MinLength(3, ErrorMessage = "Anket Başlığı En Az 3 Harften Oluşmak Zorundadır!")]
+        [Required(ErrorMessage = "Anket Başlığı Alanı Boş Bırakılmamalıdır!")]
+        [MinLength(3, ErrorMessage = "Anket Başlığı Alanı En Az 3 Harften Oluşmak Zorundadır!")]
         public string Title { get; set; } = string.Empty;
-        [Required(ErrorMessage = "Anket Açıklaması Boş Bırakılmamalıdır!")]
-        [MinLength(3, ErrorMessage = "Anket Açıklaması En Az 3 Harften Oluşmak Zorundadır!")]
+        [Required(ErrorMessage = "Anket Açıklaması Alanı Boş Bırakılmamalıdır!")]
+        [MinLength(3, ErrorMessage = "Anket Açıklaması Alanı En Az 3 Harften Oluşmak Zorundadır!")]
         public string Explanation { get; set; } = string.Empty;
-        [Required(ErrorMessage = "Anket Oluşturulma Tarihi Boş Bırakılamaz!")]
+        [Required(ErrorMessage = "Anket Oluşturulma Tarihi Alanı Boş Bırakılamaz!")]
         public DateTime CreationDate { get; set; }
         [Required(ErrorMessage = "Aktiflik Alanı Boş Bırakılmamalıdır!")]
         public bool Active { get; set; }

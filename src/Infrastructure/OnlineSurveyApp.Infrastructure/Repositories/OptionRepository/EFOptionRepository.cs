@@ -84,7 +84,9 @@ namespace OnlineSurveyApp.Infrastructure.Repositories.OptionRepository
 
         public async Task<IEnumerable<Option>> GetOptionsByQuestionAsync(int questionId)
         {
-            return await onlineSurveyDbContext.Options.AsNoTracking().Where(c => c.QuestionId == questionId).ToListAsync();
+            return await onlineSurveyDbContext.Options.AsNoTracking()
+                                                      .Where(c => c.QuestionId == questionId)
+                                                      .ToListAsync();
         }
     }
 }

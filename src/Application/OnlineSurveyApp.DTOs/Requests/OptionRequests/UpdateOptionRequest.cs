@@ -10,8 +10,8 @@ namespace OnlineSurveyApp.DTOs.Requests.OptionRequests
     public class UpdateOptionRequest
     {
         public int Id { get; set; }
-        [Required(ErrorMessage = "Seçenek Yazısı Boş Bırakılmamalıdır!")]
-        [MinLength(3, ErrorMessage = "Seçenek Yazısı En Az 3 Harften Oluşmak Zorundadır!")]
+        [Required(ErrorMessage = "Seçenek Yazısı Alanı Boş Bırakılmamalıdır!")]
+        [MinLength(3, ErrorMessage = "Seçenek Yazısı Alanı En Az 3 Harften Oluşmak Zorundadır!")]
         public string Text { get; set; } = string.Empty;
         public int? QuestionId { get; set; }
     }
