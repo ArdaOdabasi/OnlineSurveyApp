@@ -55,5 +55,5 @@ Users: Kullanıcıların depolandığı tablo
 - Role: Kullanıcının rolü.
 
 ### Ekran Görüntüleri
-*API
+* Web API
 
