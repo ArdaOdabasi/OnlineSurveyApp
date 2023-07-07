@@ -44,6 +44,7 @@ Surveys: Anketlerin depolandığı tablo
 - QuestionId: Cevabın bağlı olduğu sorunun tanımlayıcısı.
 - OptionId: Cevabın bağlı olduğu seçeneğin tanımlayıcısı.
 - RedditiveId: Cevabın bağlı olduğu kullanıcının tanımlayıcısı.
+- Evaluation: Cevabın bağlı olduğu puan değeri tanımlayıcısı.
   
 * Users: Kullanıcıların depolandığı tablo
 - Id (Anahtar): Kullanıcının benzersiz tanımlayıcısı (Primary Key).
