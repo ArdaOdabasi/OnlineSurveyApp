@@ -19,6 +19,12 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 ### Veritabanı Tasarımı
 ![VeritabaniTasarimi](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/edc5a008-bfcc-43b1-a9f6-b28206386cb7)
 * Surveys: Anketlerin depolandığı tablo
+**  Id (Anahtar): Anketin benzersiz tanımlayıcısı (Primary Key).
+** Title: Anketin başlığı, maksimum 250 karakter uzunluğunda.
+** Explanation: Anketin açıklaması, maksimum 300 karakter uzunluğunda.
+** CreationDate: Anketin oluşturulma tarihi.
+** Active: Anketin etkinlik durumu.
+** ConstituentId: Anketin bağlı olduğu bileşenin (Constituent) tanımlayıcısı. 
 * Questions: Soruların depolandığı tablo
 * Options: Seçeneklerin depolandığı tablo
 * Answers: Cevapların depolandığı tablo
