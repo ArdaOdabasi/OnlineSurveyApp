@@ -26,19 +26,19 @@ Surveys: Anketlerin depolandığı tablo
 - CreationDate: Anketin oluşturulma tarihi.
 - Active: Anketin etkinlik durumu.
 - ConstituentId: Anketin bağlı olduğu bileşenin (Constituent) tanımlayıcısı.
- 
-* Questions: Soruların depolandığı tablo
+
+Questions: Soruların depolandığı tablo
 - Id (Anahtar): Sorunun benzersiz tanımlayıcısı (Primary Key).
 - Text: Sorunun metinsel içeriği, maksimum 250 karakter uzunluğunda.
 - SurveyId: Sorunun bağlı olduğu anketin tanımlayıcısı.
 - ScoringRequirement: Sorunun puanlı olup olmadığının tanımlayıcısı.
 
-* Options: Seçeneklerin depolandığı tablo
+Options: Seçeneklerin depolandığı tablo
 - Id (Anahtar): Seçeneğin benzersiz tanımlayıcısı (Primary Key).
 - Text: Seçeneğin metinsel içeriği, maksimum 250 karakter uzunluğunda.
 - QuestionId: Seçeneğin bağlı olduğu sorunun tanımlayıcısı.
-  
-* Answers: Cevapların depolandığı tablo
+
+Answers: Cevapların depolandığı tablo
 - Id (Anahtar): Cevabın benzersiz tanımlayıcısı (Primary Key).
 - SurveyId: Cevabın bağlı olduğu anketin tanımlayıcısı.
 - QuestionId: Cevabın bağlı olduğu sorunun tanımlayıcısı.
@@ -46,7 +46,7 @@ Surveys: Anketlerin depolandığı tablo
 - RedditiveId: Cevabın bağlı olduğu kullanıcının tanımlayıcısı.
 - Evaluation: Cevabın bağlı olduğu puan değeri tanımlayıcısı.
   
-* Users: Kullanıcıların depolandığı tablo
+Users: Kullanıcıların depolandığı tablo
 - Id (Anahtar): Kullanıcının benzersiz tanımlayıcısı (Primary Key).
 - FirstName: Kullanıcının adı, maksimum 100 karakter uzunluğunda.
 - LastName: Kullanıcının soyadı, maksimum 100 karakter uzunluğunda.
