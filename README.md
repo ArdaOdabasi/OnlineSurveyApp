@@ -85,3 +85,11 @@ Users: Kullanıcıların depolandığı tablo
 
 ![9](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/f4e94a52-bbd5-407f-8ded-559e480eb3c3)
 
+![14](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/28ca1e68-8932-4600-bf88-ab49ca810047)
+
+![15](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/e7484564-af56-4d21-9d31-dab4c7034231)
+
+![16](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/761e7d38-931b-4979-b72c-0c14c211889a)
+
+![17](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/9510d283-f2e6-474f-aa74-e783058c23d8)
+
