@@ -1,4 +1,5 @@
 ## Online Anket Uygulaması
+-------------------------------------
 Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli Eğitim Bakanlığı işbirliğiyle düzenlenen Bootcamp'a katıldım ve .NET sınıfında yer aldım. Bu Bootcamp sürecinin sonunda, Online Anket Uygulaması projesini gerçekleştirdim.
 
 ### Proje Hakkında Bilgiler
@@ -20,8 +21,6 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 ![VeritabaniTasarimi](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/edc5a008-bfcc-43b1-a9f6-b28206386cb7)
 
 Surveys: Anketlerin depolandığı tablo
-
--------------------------------------
 - Id (Anahtar): Anketin benzersiz tanımlayıcısı (Primary Key).
 - Title: Anketin başlığı, maksimum 250 karakter uzunluğunda.
 - Explanation: Anketin açıklaması, maksimum 300 karakter uzunluğunda.
