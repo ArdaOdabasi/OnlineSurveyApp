@@ -57,4 +57,11 @@ Users: Kullanıcıların depolandığı tablo
 ### Ekran Görüntüleri
 
 * Web API
+![10](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/6903d1e9-6ff9-4a51-8506-0c37edb6f221)
+
+![11](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/32fc9e0d-f6a1-459c-9211-be9add95ec05)
+
+![12](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/96ca2fd2-8967-41dc-a251-ba9d6ec6c79a)
+
+![13](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/2f97905b-42eb-45fe-995c-07ea838d3add)
 
