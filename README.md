@@ -24,9 +24,29 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 - Explanation: Anketin açıklaması, maksimum 300 karakter uzunluğunda.
 - CreationDate: Anketin oluşturulma tarihi.
 - Active: Anketin etkinlik durumu.
-- ConstituentId: Anketin bağlı olduğu bileşenin (Constituent) tanımlayıcısı. 
+- ConstituentId: Anketin bağlı olduğu bileşenin (Constituent) tanımlayıcısı.
+ 
 * Questions: Soruların depolandığı tablo
-* Options: Seçeneklerin depolandığı tablo
-* Answers: Cevapların depolandığı tablo
-* Users: Kullanıcıların depolandığı tablo
+- Id (Anahtar): Sorunun benzersiz tanımlayıcısı (Primary Key).
+- Text: Sorunun metinsel içeriği, maksimum 250 karakter uzunluğunda.
+- SurveyId: Sorunun bağlı olduğu anketin tanımlayıcısı.
 
+* Options: Seçeneklerin depolandığı tablo
+- Id (Anahtar): Seçeneğin benzersiz tanımlayıcısı (Primary Key).
+- Text: Seçeneğin metinsel içeriği, maksimum 250 karakter uzunluğunda.
+- QuestionId: Seçeneğin bağlı olduğu sorunun tanımlayıcısı.
+  
+* Answers: Cevapların depolandığı tablo
+- Id (Anahtar): Cevabın benzersiz tanımlayıcısı (Primary Key).
+- SurveyId: Cevabın bağlı olduğu anketin tanımlayıcısı.
+- QuestionId: Cevabın bağlı olduğu sorunun tanımlayıcısı.
+- OptionId: Cevabın bağlı olduğu seçeneğin tanımlayıcısı.
+- RedditiveId: Cevabın bağlı olduğu kullanıcının tanımlayıcısı.
+  
+* Users: Kullanıcıların depolandığı tablo
+- Id (Anahtar): Kullanıcının benzersiz tanımlayıcısı (Primary Key).
+- FirstName: Kullanıcının adı, maksimum 100 karakter uzunluğunda.
+- LastName: Kullanıcının soyadı, maksimum 100 karakter uzunluğunda.
+- UserName: Kullanıcının kullanıcı adı, maksimum 100 karakter uzunluğunda.
+- Password: Kullanıcının şifresi, maksimum 100 karakter uzunluğunda.
+- Role: Kullanıcının rolü veya yetkisi, maksimum 100 karakter uzunluğunda.
