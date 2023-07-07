@@ -94,5 +94,5 @@ Users: Kullanıcıların depolandığı tablo
 ![17](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/9510d283-f2e6-474f-aa74-e783058c23d8)
 
 ### Projenin YouTube Video Linki
-
+* https://youtu.be/HkErooSfB2E
 
