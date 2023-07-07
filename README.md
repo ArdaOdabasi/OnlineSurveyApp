@@ -65,3 +65,5 @@ Users: Kullanıcıların depolandığı tablo
 
 ![13](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/2f97905b-42eb-45fe-995c-07ea838d3add)
 
+* Web UI - MVC
+
