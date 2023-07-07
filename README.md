@@ -1,2 +1,2 @@
-# OnlineSurveyApp
-It is the final project of the .NET class that I took part in the "Gençlere Yatırım Geleceğe Yazılım" program jointly organized by Turkcell and MEB.
+# Online Anket Uygulaması
+Turkcell ve Meb ortaklığıyla düzenlenen "Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Bootcamp katılımcısı olduğum .NET sınıfının Bootcamp Final Projesi olan Online Anket Uygulamasını gerçekleştirdim.
