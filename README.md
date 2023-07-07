@@ -20,38 +20,38 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 ![VeritabaniTasarimi](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/edc5a008-bfcc-43b1-a9f6-b28206386cb7)
 
 Surveys: Anketlerin depolandığı tablo
-- Id (Anahtar): Anketin benzersiz tanımlayıcısı (Primary Key).
-- Title: Anketin başlığı, maksimum 250 karakter uzunluğunda.
-- Explanation: Anketin açıklaması, maksimum 300 karakter uzunluğunda.
+- Id: Anketin benzersiz tanımlayıcısı (Primary Key).
+- Title: Anketin başlığı.
+- Explanation: Anketin açıklaması.
 - CreationDate: Anketin oluşturulma tarihi.
-- Active: Anketin etkinlik durumu.
-- ConstituentId: Anketin bağlı olduğu bileşenin (Constituent) tanımlayıcısı.
+- Active: Anketin aktiflik durumu.
+- ConstituentId: Anketi oluşturan kullanıcının Id değeri.
 
 Questions: Soruların depolandığı tablo
-- Id (Anahtar): Sorunun benzersiz tanımlayıcısı (Primary Key).
-- Text: Sorunun metinsel içeriği, maksimum 250 karakter uzunluğunda.
-- SurveyId: Sorunun bağlı olduğu anketin tanımlayıcısı.
+- Id: Sorunun benzersiz tanımlayıcısı (Primary Key).
+- Text: Sorunun metinsel içeriği.
+- SurveyId: Sorunun bağlı olduğu anketin Id değeri.
 - ScoringRequirement: Sorunun puanlı olup olmadığının tanımlayıcısı.
 
 Options: Seçeneklerin depolandığı tablo
-- Id (Anahtar): Seçeneğin benzersiz tanımlayıcısı (Primary Key).
-- Text: Seçeneğin metinsel içeriği, maksimum 250 karakter uzunluğunda.
-- QuestionId: Seçeneğin bağlı olduğu sorunun tanımlayıcısı.
+- Id: Seçeneğin benzersiz tanımlayıcısı (Primary Key).
+- Text: Seçeneğin metinsel içeriği.
+- QuestionId: Seçeneğin bağlı olduğu sorunun Id değeri.
 
 Answers: Cevapların depolandığı tablo
-- Id (Anahtar): Cevabın benzersiz tanımlayıcısı (Primary Key).
-- SurveyId: Cevabın bağlı olduğu anketin tanımlayıcısı.
-- QuestionId: Cevabın bağlı olduğu sorunun tanımlayıcısı.
-- OptionId: Cevabın bağlı olduğu seçeneğin tanımlayıcısı.
-- RedditiveId: Cevabın bağlı olduğu kullanıcının tanımlayıcısı.
-- Evaluation: Cevabın bağlı olduğu puan değeri tanımlayıcısı.
+- Id: Cevabın benzersiz tanımlayıcısı (Primary Key).
+- SurveyId: Cevabın bağlı olduğu anketin Id değeri.
+- QuestionId: Cevabın bağlı olduğu sorunun Id değeri.
+- OptionId: Cevabın bağlı olduğu seçeneğin Id değeri.
+- RedditiveId: Cevabı veren kullanıcının Id değeri.
+- Evaluation: Cevabın puan değeri tanımlayıcısı.
   
 Users: Kullanıcıların depolandığı tablo
-- Id (Anahtar): Kullanıcının benzersiz tanımlayıcısı (Primary Key).
-- FirstName: Kullanıcının adı, maksimum 100 karakter uzunluğunda.
-- LastName: Kullanıcının soyadı, maksimum 100 karakter uzunluğunda.
-- UserName: Kullanıcının kullanıcı adı, maksimum 100 karakter uzunluğunda.
-- Password: Kullanıcının şifresi, maksimum 100 karakter uzunluğunda.
-- Role: Kullanıcının rolü veya yetkisi, maksimum 100 karakter uzunluğunda.
+- Id: Kullanıcının benzersiz tanımlayıcısı (Primary Key).
+- FirstName: Kullanıcının adı.
+- LastName: Kullanıcının soyadı.
+- UserName: Kullanıcının kullanıcı adı.
+- Password: Kullanıcının şifresi.
+- Role: Kullanıcının rolü.
 
 ### Ekran Görüntüleri
