@@ -53,3 +53,5 @@ Users: Kullanıcıların depolandığı tablo
 - UserName: Kullanıcının kullanıcı adı, maksimum 100 karakter uzunluğunda.
 - Password: Kullanıcının şifresi, maksimum 100 karakter uzunluğunda.
 - Role: Kullanıcının rolü veya yetkisi, maksimum 100 karakter uzunluğunda.
+
+### Ekran Görüntüleri
