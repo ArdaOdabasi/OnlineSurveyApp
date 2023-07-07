@@ -19,6 +19,8 @@ namespace OnlineSurveyApp.Infrastructure.Data
 
             RulesForOptionProperties(modelBuilder);
 
+            RulesForAnswerProperties(modelBuilder);
+
             RulesForUserProperties(modelBuilder);
 
             modelBuilder.Entity<Survey>().HasOne(s => s.Constituent)
@@ -99,6 +101,15 @@ namespace OnlineSurveyApp.Infrastructure.Data
                                          .HasMaxLength(250);
 
             modelBuilder.Entity<Option>().Property(o => o.QuestionId)
+                                         .IsRequired();
+        }
+
+        private static void RulesForAnswerProperties(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Answer>().Property(a => a.SurveyId)
+                                         .IsRequired();
+
+            modelBuilder.Entity<Answer>().Property(a => a.QuestionId)
                                          .IsRequired();
         }
 

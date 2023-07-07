@@ -23,6 +23,6 @@ namespace OnlineSurveyApp.Entities
         [Required]
         public int ConstituentId { get; set; }
         public ICollection<Question> Questions { get; set; }
-        public ICollection<Answer>? Answers { get; set; }
+        public ICollection<Answer> Answers { get; set; }
     }
 }

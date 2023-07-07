@@ -36,13 +36,13 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.Property<int?>("OptionId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("QuestionId")
+                    b.Property<int>("QuestionId")
                         .HasColumnType("int");
 
                     b.Property<int?>("RedditiveId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("SurveyId")
+                    b.Property<int>("SurveyId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -189,7 +189,8 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.HasOne("OnlineSurveyApp.Entities.Question", "Question")
                         .WithMany("Answers")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
 
                     b.HasOne("OnlineSurveyApp.Entities.User", "Redditive")
                         .WithMany("Answers")
@@ -199,7 +200,8 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.HasOne("OnlineSurveyApp.Entities.Survey", "Survey")
                         .WithMany("Answers")
                         .HasForeignKey("SurveyId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
 
                     b.Navigation("Option");
 

@@ -19,6 +19,6 @@ namespace OnlineSurveyApp.Entities
         [Required]
         public int SurveyId { get; set; }
         public ICollection<Option> Options { get; set; }
-        public ICollection<Answer>? Answers { get; set; }
+        public ICollection<Answer> Answers { get; set; }
     }
 }

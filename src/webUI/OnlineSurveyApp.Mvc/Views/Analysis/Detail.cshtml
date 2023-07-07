@@ -26,7 +26,7 @@
 
 @foreach (var answer in answers)
 {
-    int questionId = answer.QuestionId.HasValue ? answer.QuestionId.Value : 0;
+    int questionId = answer.QuestionId;
     int optionId = answer.OptionId.HasValue ? answer.OptionId.Value : 0;
 
     if (optionId != 0)

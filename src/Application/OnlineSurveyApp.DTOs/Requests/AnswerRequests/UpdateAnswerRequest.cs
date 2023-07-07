@@ -13,8 +13,10 @@ namespace OnlineSurveyApp.DTOs.Requests.AnswerRequests
         [Range(1, 10, ErrorMessage = "Değerlendirme 1 ile 10 arasında olmalıdır!")]
         public int? Evaluation { get; set; }
         public int? RedditiveId { get; set; }
-        public int? SurveyId { get; set; }
-        public int? QuestionId { get; set; }
+        [Required(ErrorMessage = "Survey Id Alanı Boş Bırakılmamalıdır!")]
+        public int SurveyId { get; set; }
+        [Required(ErrorMessage = "Question Id Alanı Boş Bırakılmamalıdır!")]
+        public int QuestionId { get; set; }
         public int? OptionId { get; set; }
     }
 }
