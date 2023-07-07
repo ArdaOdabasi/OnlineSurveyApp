@@ -29,17 +29,27 @@ namespace OnlineSurveyApp.Mvc.Controllers
         public async Task<IActionResult> JoinSurvey(string surveyId)
         {
             var survey = await _surveyService.GetSurveyByIdAsync(int.Parse(surveyId));
-            var questions = await _questionService.GetQuestionsBySurveyAsync(int.Parse(surveyId));
-            var options = await _optionService.GetAllOptionsAsync();
 
-            var model = new SurveyDetailViewModel
+            if (survey != null)
             {
-                survey = survey,
-                questions = questions,
-                options = options
-            };
+                var questions = await _questionService.GetQuestionsBySurveyAsync(int.Parse(surveyId));
+                var options = await _optionService.GetAllOptionsAsync();
 
-            return View(model);
+                var model = new SurveyDetailViewModel
+                {
+                    survey = survey,
+                    questions = questions,
+                    options = options
+                };
+
+                return View(model);
+            }
+            
+            else
+            {
+                return RedirectToAction("PageNotFound", "Survey");
+
+            }
         }
 
         [HttpPost]
@@ -79,6 +89,11 @@ namespace OnlineSurveyApp.Mvc.Controllers
         }
 
         public async Task<IActionResult> Thanking()
+        {
+            return View();
+        }
+
+        public async Task<IActionResult> PageNotFound()
         {
             return View();
         }

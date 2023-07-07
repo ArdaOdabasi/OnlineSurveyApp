@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5XEpvaW5TdXJ2ZXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/pi/Desktop/Yedek/OnlineSurveyApp/src/webUI/OnlineSurveyApp.Mvc/Views/Survey/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5XFBhZ2VOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pi/Desktop/Yedek/OnlineSurveyApp/src/webUI/OnlineSurveyApp.Mvc/Views/Survey/Thanking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5XFRoYW5raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
