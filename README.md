@@ -15,3 +15,5 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 * Proje sunum katmanında, verileri yönetmek için ViewModel ve ViewComponent yapılarına odaklandım. Bu yapılar, verilerin etkili bir şekilde sunumunu sağladı ve kullanıcı arayüzünde gerekli işlemleri gerçekleştirmek için gereken esnekliği sağladı. ViewModel ve ViewComponent yapıları, verilerin düzenli bir şekilde sunulmasını ve kullanıcı deneyimini geliştirmeyi hedefledi. Bu sayede, projenin sunum katmanında verilerin yönetimini kolaylaştırdım, kullanıcı arayüzünde daha fazla kontrol ve özelleştirme imkanı sağladım.
 * Projemde, clean-code kurallarına büyük önem verdim ve SOLID prensiplerine sıkı bir şekilde uymaya çalıştım. Bu sayede, kodumun okunabilirliğini artırdım, sürdürülebilirliğini güçlendirdim ve gelecekteki değişikliklere uyum sağlama kabiliyetini artırdım.
 * Dependency Injection prensiplerini projemde başarıyla uygulayarak, geliştirme sürecine büyük bir ivme kazandırdım. Bu sayede, DI paketlerini hızlı bir şekilde projeme dahil ederek, güçlü ve esnek bir kod tabanı oluşturdum.
+
+### Veritabanı Tasarımı
