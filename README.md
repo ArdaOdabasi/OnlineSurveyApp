@@ -57,41 +57,41 @@ Users: Kullanıcıların depolandığı tablo
 ### Ekran Görüntüleri
 
 * Web API
-![10](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/6903d1e9-6ff9-4a51-8506-0c37edb6f221)
+![10](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/094cd0ac-6fea-4fd7-b308-4969777a008d)
 
-![11](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/32fc9e0d-f6a1-459c-9211-be9add95ec05)
+![11](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/5b307ed8-6570-4a86-930b-93f87cbbdeaf)
 
-![12](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/96ca2fd2-8967-41dc-a251-ba9d6ec6c79a)
+![12](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/0be14983-b7af-4e6e-9b0e-293a663f2d52)
 
-![13](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/2f97905b-42eb-45fe-995c-07ea838d3add)
+![13](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/62006931-0b9d-4de6-a440-d86ca1e0a52b)
 
 * Web UI - MVC
 
-![1](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/d398e667-8776-4ab3-87e5-fa835430f47b)
+![1](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/aab77e44-873c-4b9c-815a-60bfa25cfbea)
 
-![2](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/2ba180f9-72fd-4c06-a3a3-de3db87a7dc1)
+![2](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/246fa0be-5dee-417d-8bd8-1a9a56fe0494)
 
-![3](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/863fd9d3-481e-4a4d-aaec-22fe8b7d010b)
+![3](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/1c45d8a3-a7b1-48b5-bba4-5ec3a2b351c1)
 
-![4](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/f6cfd63c-ffc2-4138-8955-cc022a8c7bdf)
+![4](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/e653c631-cd63-4205-9bc5-4b811816e35f)
 
-![5](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/73124890-972f-46a0-bfcd-f66c77907f09)
+![5](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/0a3c7dfe-4bd2-4764-a25a-cdf2651fe08e)
 
-![6](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/efb162f3-f7f4-46ff-885b-55f36563612c)
+![6](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/acd064a8-dec9-4b0b-81d2-f0a9a73d5c08)
 
-![7](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/50adc5a0-6bbd-4f26-892d-ce786e06fc5e)
+![7](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/0c8699c6-6852-4b44-a807-5a4a45b445dc)
 
-![8](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/fa2f1d20-8170-47bf-a4f3-560ff2284621)
+![8](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/50b191d5-4506-4da6-8217-417bf300ba6e)
 
-![9](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/f4e94a52-bbd5-407f-8ded-559e480eb3c3)
+![9](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/ede45164-6f19-476e-a4e5-9c964629ef71)
 
-![14](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/28ca1e68-8932-4600-bf88-ab49ca810047)
+![14](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/07d367aa-5db7-4bd9-88ee-282cb6eea52f)
 
-![15](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/e7484564-af56-4d21-9d31-dab4c7034231)
+![15](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/3ac423c8-278a-4ead-9c95-d439566b2d2f)
 
-![16](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/761e7d38-931b-4979-b72c-0c14c211889a)
+![16](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/a1ec26a0-9008-440e-9a4e-1b17c93841ea)
 
-![17](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/9510d283-f2e6-474f-aa74-e783058c23d8)
+![17](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/cc83cc5b-3325-491c-9737-80810a09112c)
 
 ### Projenin YouTube Video Linki
 * https://youtu.be/HkErooSfB2E
