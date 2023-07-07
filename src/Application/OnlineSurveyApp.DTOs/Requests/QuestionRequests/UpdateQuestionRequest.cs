@@ -15,6 +15,7 @@ namespace OnlineSurveyApp.DTOs.Requests.QuestionRequests
         public string Text { get; set; } = string.Empty;      
         [Required(ErrorMessage = "Puanlandırma Gereksinimi Alanı Boş Bırakılmamalıdır!")]
         public bool ScoringRequirement { get; set; }
-        public int? SurveyId { get; set; }
+        [Required(ErrorMessage = "Survey Id Alanı Boş Bırakılmamalıdır!")]
+        public int SurveyId { get; set; }
     }
 }

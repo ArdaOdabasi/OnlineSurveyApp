@@ -66,7 +66,7 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("QuestionId")
+                    b.Property<int>("QuestionId")
                         .HasColumnType("int");
 
                     b.Property<string>("Text")
@@ -92,7 +92,7 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.Property<bool>("ScoringRequirement")
                         .HasColumnType("bit");
 
-                    b.Property<int?>("SurveyId")
+                    b.Property<int>("SurveyId")
                         .HasColumnType("int");
 
                     b.Property<string>("Text")
@@ -215,7 +215,8 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.HasOne("OnlineSurveyApp.Entities.Question", "Question")
                         .WithMany("Options")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
 
                     b.Navigation("Question");
                 });
@@ -225,7 +226,8 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.HasOne("OnlineSurveyApp.Entities.Survey", "Survey")
                         .WithMany("Questions")
                         .HasForeignKey("SurveyId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
 
                     b.Navigation("Survey");
                 });

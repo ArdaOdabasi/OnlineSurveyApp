@@ -12,6 +12,7 @@ namespace OnlineSurveyApp.DTOs.Responses.OptionResponses
         public int Id { get; set; }
         [Required]
         public string Text { get; set; } = string.Empty;
-        public int? QuestionId { get; set; }
+        [Required]
+        public int QuestionId { get; set; }
     }
 }

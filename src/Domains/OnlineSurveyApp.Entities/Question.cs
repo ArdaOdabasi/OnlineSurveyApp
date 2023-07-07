@@ -14,9 +14,11 @@ namespace OnlineSurveyApp.Entities
         public string Text { get; set; } = string.Empty;    
         [Required]
         public bool ScoringRequirement { get; set; }
-        public Survey? Survey { get; set; }
-        public int? SurveyId { get; set; }
-        public ICollection<Option>? Options { get; set; }
+        [Required]
+        public Survey Survey { get; set; }
+        [Required]
+        public int SurveyId { get; set; }
+        public ICollection<Option> Options { get; set; }
         public ICollection<Answer>? Answers { get; set; }
     }
 }

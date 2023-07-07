@@ -14,6 +14,7 @@ namespace OnlineSurveyApp.DTOs.Responses.QuestionResponses
         public string Text { get; set; } = string.Empty;   
         [Required]
         public bool ScoringRequirement { get; set; }
-        public int? SurveyId { get; set; }
+        [Required]
+        public int SurveyId { get; set; }
     }
 }
