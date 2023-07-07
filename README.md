@@ -1,2 +1,2 @@
 # Online Anket Uygulaması
-Turkcell ve Meb ortaklığıyla düzenlenen "Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Bootcamp katılımcısı olduğum .NET sınıfının Bootcamp Final Projesi olan Online Anket Uygulamasını gerçekleştirdim.
+Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli Eğitim Bakanlığı işbirliğiyle düzenlenen Bootcamp'a katıldım ve .NET sınıfında yer aldım. Bu Bootcamp sürecinin sonunda, Online Anket Uygulaması projesini gerçekleştirdim.
