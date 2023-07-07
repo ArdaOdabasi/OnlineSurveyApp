@@ -31,7 +31,7 @@ Surveys: Anketlerin depolandığı tablo
 - Id (Anahtar): Sorunun benzersiz tanımlayıcısı (Primary Key).
 - Text: Sorunun metinsel içeriği, maksimum 250 karakter uzunluğunda.
 - SurveyId: Sorunun bağlı olduğu anketin tanımlayıcısı.
-- Scoring Requirement: Sorunun puanlı olup olmadığının tanımlayıcısı.
+- ScoringRequirement: Sorunun puanlı olup olmadığının tanımlayıcısı.
 
 * Options: Seçeneklerin depolandığı tablo
 - Id (Anahtar): Seçeneğin benzersiz tanımlayıcısı (Primary Key).
