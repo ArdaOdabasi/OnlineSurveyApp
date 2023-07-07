@@ -118,7 +118,7 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.Property<bool>("Active")
                         .HasColumnType("bit");
 
-                    b.Property<int?>("ConstituentId")
+                    b.Property<int>("ConstituentId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreationDate")
@@ -235,7 +235,8 @@ namespace OnlineSurveyApp.Infrastructure.Migrations
                     b.HasOne("OnlineSurveyApp.Entities.User", "Constituent")
                         .WithMany("Surveys")
                         .HasForeignKey("ConstituentId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
 
                     b.Navigation("Constituent");
                 });

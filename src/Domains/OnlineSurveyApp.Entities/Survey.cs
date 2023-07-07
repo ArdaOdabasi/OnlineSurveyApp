@@ -18,8 +18,8 @@ namespace OnlineSurveyApp.Entities
         public DateTime CreationDate { get; set; }
         [Required]
         public bool Active { get; set; }
-        public User? Constituent { get; set; }
-        public int? ConstituentId { get; set; }
+        public User Constituent { get; set; }
+        public int ConstituentId { get; set; }
         public ICollection<Question>? Questions { get; set; }
         public ICollection<Answer>? Answers { get; set; }
     }

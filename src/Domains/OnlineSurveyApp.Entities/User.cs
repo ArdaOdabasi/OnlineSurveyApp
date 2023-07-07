@@ -21,7 +21,7 @@ namespace OnlineSurveyApp.Entities
         public string Password { get; set; } = string.Empty;
         [Required]
         public string Role { get; set; } = string.Empty;
-        public ICollection<Survey>? Surveys { get; set; }
+        public ICollection<Survey> Surveys { get; set; }
         public ICollection<Answer>? Answers { get; set; }
     }
 }

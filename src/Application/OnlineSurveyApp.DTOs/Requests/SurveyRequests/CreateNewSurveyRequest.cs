@@ -19,6 +19,7 @@ namespace OnlineSurveyApp.DTOs.Requests.SurveyRequests
         public DateTime CreationDate { get; set; }
         [Required(ErrorMessage = "Aktiflik Alanı Boş Bırakılmamalıdır!")]
         public bool Active { get; set; }
-        public int? ConstituentId { get; set; }
+        [Required(ErrorMessage = "Constituent Id Alanı Boş Bırakılmamalıdır!")]
+        public int ConstituentId { get; set; }
     }
 }

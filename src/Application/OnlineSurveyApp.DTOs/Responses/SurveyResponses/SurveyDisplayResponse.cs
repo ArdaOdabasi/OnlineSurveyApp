@@ -14,6 +14,6 @@ namespace OnlineSurveyApp.DTOs.Responses.SurveyResponses
         public string Explanation { get; set; } = string.Empty;
         public DateTime CreationDate { get; set; }
         public bool Active { get; set; }
-        public int? ConstituentId { get; set; }
+        public int ConstituentId { get; set; }
     }
 }
