@@ -18,4 +18,9 @@ Gençlere Yatırım Geleceğe Yazılım" programı kapsamında Turkcell ve Milli
 
 ### Veritabanı Tasarımı
 ![VeritabaniTasarimi](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/edc5a008-bfcc-43b1-a9f6-b28206386cb7)
+* Surveys: Anketlerin depolandığı tablo
+* Questions: Soruların depolandığı tablo
+* Options: Seçeneklerin depolandığı tablo
+* Answers: Cevapların depolandığı tablo
+* Users: Kullanıcıların depolandığı tablo
 
