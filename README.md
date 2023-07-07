@@ -67,3 +67,21 @@ Users: Kullanıcıların depolandığı tablo
 
 * Web UI - MVC
 
+![1](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/d398e667-8776-4ab3-87e5-fa835430f47b)
+
+![2](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/2ba180f9-72fd-4c06-a3a3-de3db87a7dc1)
+
+![3](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/863fd9d3-481e-4a4d-aaec-22fe8b7d010b)
+
+![4](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/f6cfd63c-ffc2-4138-8955-cc022a8c7bdf)
+
+![5](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/73124890-972f-46a0-bfcd-f66c77907f09)
+
+![6](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/efb162f3-f7f4-46ff-885b-55f36563612c)
+
+![7](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/50adc5a0-6bbd-4f26-892d-ce786e06fc5e)
+
+![8](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/fa2f1d20-8170-47bf-a4f3-560ff2284621)
+
+![9](https://github.com/ArdaOdabasi/OnlineSurveyApp/assets/61662021/f4e94a52-bbd5-407f-8ded-559e480eb3c3)
+
